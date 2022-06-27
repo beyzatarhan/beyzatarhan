@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Beyza</h1>
-<h3 align="center">I am a 3nd grade student of computer engineering.</h3>
+<h3 align="center">I am a 3th grade student of computer engineering.</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
