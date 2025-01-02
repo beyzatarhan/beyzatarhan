@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Beyza</h1>
 <h3 align="center">I am a computer engineer.</h3>
 
-- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **beyzatarhn05@gmail.com**
 
